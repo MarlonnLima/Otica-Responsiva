@@ -1,0 +1,63 @@
+.banner{
+    background-image: url("../../assets/imagens/capa.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 80vh;
+}
+
+.container-banner{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container-banner h1, p{
+    font-family: 'anybody', cursive;
+}
+
+.container-banner h1{
+    max-width: 500px;
+}
+
+.container-banner p{
+    color: rgb(196,196,196);
+}
+
+.container-banner h1{
+    text-transform: uppercase;
+    margin: 0;
+    font-size: 60px;
+    letter-spacing: 5px;
+    line-height: 70px;
+    color: #fff;
+}
+
+@media(max-width: 768px)
+{
+    .container-banner h1{
+        font-size: 40px;
+        max-width: 350px;
+    }
+
+    .container-banner p{
+        font-size: 20px;
+    }
+
+    .banner{
+        background-position: 52%;
+    }
+}
+
+@media(max-width: 550px){
+    .banner{
+        background-position: 50% center;
+    }
+
+    .container-banner{
+        background-color: rgba(0,0,0,0.6);
+    }
+}
