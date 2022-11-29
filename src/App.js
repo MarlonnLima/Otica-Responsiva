@@ -1,6 +1,7 @@
 import Topo from './componentes/Topo/'
 import Conteudo from './componentes/Conteudo';
 import Rodape from './componentes/Rodape'
+import VoltarTopo from './componentes/VoltarTopo';
 import './App.css';
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
     <Topo />
     <Conteudo />
     <Rodape />
-
+    <VoltarTopo />
 
     </div>
   );

@@ -1,7 +1,6 @@
 .banner{
-    background-image: url("../../assets/imagens/capa.png");
+    background-image: url("../../assets/imagens/capa.png") !important;
     background-repeat: no-repeat;
-    background-size: cover;
     background-position: center center;
     height: 80vh;
 }
@@ -54,7 +53,7 @@
 
 @media(max-width: 550px){
     .banner{
-        background-position: 50% center;
+        background-position: 70% 20%;
     }
 
     .container-banner{

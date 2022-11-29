@@ -3,6 +3,8 @@ import Oculos02 from "../../assets/imagens/oculos02.png"
 import Oculos03 from "../../assets/imagens/oculos03.png"
 import Oculos04 from "../../assets/imagens/oculos04.png"
 import "./style.css"
+
+
 export default function SecaoProdutos(){
     return(
         <section id ="produtos" className="secao-produtos">
@@ -43,5 +45,6 @@ export default function SecaoProdutos(){
                 </div>
             </div>
         </section>
+    
     )
 }

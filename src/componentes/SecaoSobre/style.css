@@ -1,6 +1,6 @@
 .secao-sobre{
     background-color: #f8f7ff;
-    padding: 60px 20px 60px 20px;
+    padding: 20px 20px 0px 20px;
     text-align: center;
 }
 
@@ -69,6 +69,7 @@
     .box-cards img{
         width: 100%;
         height: 300px;
+        object-fit: contain;
     }
     .box-cards div{
         width: 100%;
