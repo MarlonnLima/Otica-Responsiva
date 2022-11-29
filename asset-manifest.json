@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Otica-Responsiva/static/css/main.1ffc61d8.css",
+    "main.js": "/Otica-Responsiva/static/js/main.50747186.js",
+    "static/js/787.19c034d5.chunk.js": "/Otica-Responsiva/static/js/787.19c034d5.chunk.js",
+    "static/media/loja.jpg": "/Otica-Responsiva/static/media/loja.c1a5d6ab686862c23025.jpg",
+    "static/media/atendimento.jpg": "/Otica-Responsiva/static/media/atendimento.3d7d32eb40be402de387.jpg",
+    "static/media/oculos04.png": "/Otica-Responsiva/static/media/oculos04.2b4ef3046472f1e65e3c.png",
+    "static/media/capa.png": "/Otica-Responsiva/static/media/capa.44a9e1db5439c08db3da.png",
+    "static/media/oculos01.png": "/Otica-Responsiva/static/media/oculos01.6f54a4b935d414714b05.png",
+    "static/media/oculos03.png": "/Otica-Responsiva/static/media/oculos03.5551db3a9fed6348356a.png",
+    "static/media/oculos02.png": "/Otica-Responsiva/static/media/oculos02.120e034f9037c3e7f5ce.png",
+    "static/media/logo.png": "/Otica-Responsiva/static/media/logo.de2cc3bbc4d89ca71721.png",
+    "index.html": "/Otica-Responsiva/index.html",
+    "main.1ffc61d8.css.map": "/Otica-Responsiva/static/css/main.1ffc61d8.css.map",
+    "main.50747186.js.map": "/Otica-Responsiva/static/js/main.50747186.js.map",
+    "787.19c034d5.chunk.js.map": "/Otica-Responsiva/static/js/787.19c034d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ffc61d8.css",
+    "static/js/main.50747186.js"
+  ]
+}
